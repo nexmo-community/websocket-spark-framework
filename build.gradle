@@ -19,7 +19,7 @@ mainClassName = 'App'
 
 dependencies {
     // This dependency is found on compile classpath of this component and consumers.
-    compile 'com.google.guava:guava:23.0'
+    compile 'com.google.guava:guava:30.0-android'
 
     compile 'com.sparkjava:spark-core:2.7.2'
 
